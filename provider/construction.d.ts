@@ -1,0 +1,10 @@
+import type { KeyringPair } from '@polkadot/keyring/types';
+import { ApiPromise as IApiPromise, Network, NetworkConfig, RedspotNetworkUserConfig } from '../types';
+import { Signer as AccountSigner } from './account-signer';
+import { Signer } from './signer';
+import { WsProvider } from './ws-provider';
+export declare function createProvider(networkConfig: RedspotNetworkUserConfig): WsProvider;
+export declare function createApi(provider: WsProvider, config: NetworkConfig, signer?: AccountSigner): IApiPromise;
+export declare function createSigner(signer: AccountSigner, pair: KeyringPair): Signer;
+export declare function addPair(signer: AccountSigner, pair: KeyringPair): KeyringPair;
+export declare function createNetwork(networkName: string, networkConfig: NetworkConfig): Network;

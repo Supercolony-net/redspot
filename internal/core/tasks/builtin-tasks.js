@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("../../../builtin-tasks/check");
+require("../../../builtin-tasks/testnet");
+require("../../../builtin-tasks/clean");
+require("../../../builtin-tasks/compile");
+require("../../../builtin-tasks/compile-ink");
+require("../../../builtin-tasks/compile-solang");
+require("../../../builtin-tasks/console");
+require("../../../builtin-tasks/help");
+require("../../../builtin-tasks/run");
+require("../../../builtin-tasks/test");
+require("../../../builtin-tasks/metadata");
