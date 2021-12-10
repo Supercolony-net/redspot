@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d265424c-bc6f-4f72-9dba-d31ea934d16d" name="Default Changelist" comment="patch target dir">
+      <change afterPath="$PROJECT_DIR$/.yarn/versions/a3a26d30.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-chai/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-chai/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-decimals/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-decimals/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-explorer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-explorer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-gas-reporter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-gas-reporter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-jupiter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-jupiter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-known-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-known-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-new/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-new/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-patract/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-patract/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/redspot-watcher/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/redspot-watcher/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jlyuv3ij" />
+  </component>
+  <component name="ProjectId" id="225rUT2OufVLEkYjFZl9ExXmw9i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d265424c-bc6f-4f72-9dba-d31ea934d16d" name="Default Changelist" comment="" />
+      <created>1639138304443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639138304443</updated>
+      <workItem from="1639138307685" duration="968000" />
+    </task>
+    <task id="LOCAL-00001" summary="patch target dir">
+      <created>1639138368273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639138368273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="patch target dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="patch target dir" />
+  </component>
+</project>
